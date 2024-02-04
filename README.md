@@ -69,7 +69,7 @@ karifurai - verified the pitch accent for the first 750 cards and added pitch no
 
 cindsa - verified the pitch accent for the last 750 cards and added pitch notes
 
-AJT Japanese - t
+AJT Japanese - the pitch accent, furigana and some of the audio was generated using this add-on
 
 We also got various ideas from multiple members of the TMW discord server, including the name of the deck itself.
 
