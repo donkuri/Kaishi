@@ -1,19 +1,19 @@
 # Kaishi 1.5k
 
-Welcome to the public repository for Kaishi 1.5k, a modern Anki deck made to introduce beginners to basic Japanese vocabulary. Kaishi 1.5k is highly modular and this page is dedicated to explaining various options you can use to change the deck to your liking. Here is what the deck looks like:
+Welcome to the public repository for **Kaishi 1.5**, a modern Anki deck made to introduce beginners to basic Japanese vocabulary. Kaishi 1.5k is highly modular and this page is dedicated to explaining various options you can use to change the deck to your liking. Here is what the deck looks like:
 
 <figure>
 <div align="center">
   <img src="https://github.com/donkuri/Kaishi/blob/main/pics/front-card.png" alt="Front of a Card in Kaishi 1.5k" style="width: 70%; height: auto">
 </div>
-  <figcaption>Front of a card</figcaption>
+  <figcaption style="text-align: center;">Front of a card</figcaption>
 </figure>
-
+<br>
 <figure>
 <div align="center">
   <img src="https://github.com/donkuri/Kaishi/blob/main/pics/back-card.png" alt="Back of a Card in Kaishi 1.5k" style="width: 70%; height: auto">
 </div>
-  <figcaption>Back of a card</figcaption>
+  <figcaption style="text-align: center;">Back of a card</figcaption>
 </figure>
 
 ## The genesis of the deck
