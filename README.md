@@ -53,7 +53,7 @@ This deck has its origin in a discussion between Tyogin and myself in the [TMW d
 
 Both of these issues were annoying enough that we would get beginners asking questions about it every two weeks. Tyogin proposed we fix the issue ourselves and a small team was assembled to fix these issues. We mostly took data from Core2k, Core10k, Tango N4 and Tango N5. We then combined the data, sorted the words by frequency using various Yomichan/Yomitan frequency dictionaries and selected around 1500 words. We then fixed the translations for each word, chose the best sentence for each word and fixed the sentence if it needed fixing. We had to fix roughly 120 sentences out of the 1500 we chose. After this, we generated audio for words that were missing proper audio, and a team of two people (Karifurai and cindsa) verified the pitch accent data we got from [AJT Japanese](https://ankiweb.net/shared/info/1344485230) as well as adding pitch accent notes for words that needed it. We also generated furigana from AJT Japanese for the words and the sentences. After this, we designed a basic hint targeted sentences card CSS to be used on the default version of the deck.
 
-Kaishi, written 開始 means "start, beginning". As we were deciding on a name, someone mentioned the word and it turned out it was exactly the 1000th in the deck. We thought this fit properly Hopefully, this deck will be a wonderful start to your Japanese learning journey.
+Kaishi, written 開始 means "start, beginning". As we were deciding on a name, someone mentioned 開始 and it turned out this word was exactly the 1000th in the deck. We thought this fit properly so we decided on using this name. Hopefully, this deck will be a wonderful start to your Japanese learning journey.
 
 ## Credits
 
