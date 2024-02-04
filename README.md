@@ -61,7 +61,7 @@ This deck was made with the help of these people:
 
 [栗](https://github.com/donkuri/) - main architect, took care of the translations and all of the technical aspects
 
-Tyogin - main architect, meticulously reordered the first 200 cards to make it as i+1 as possible for beginners
+Tyogin - main architect, reordered the first 200 cards to be i+1 as possible and changed the sentences
 
 Julian - helped add notes and checked some sentence translations
 
