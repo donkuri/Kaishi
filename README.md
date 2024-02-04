@@ -3,7 +3,7 @@
 Welcome to the public repository for **Kaishi 1.5**, a modern Anki deck made to introduce beginners to basic Japanese vocabulary. Kaishi 1.5k is highly modular and this page is dedicated to explaining various options you can use to change the deck to your liking. Here is what the deck looks like:
 
 <div align="center">
-  <img src="https://github.com/donkuri/Kaishi/blob/main/pics/back-card.png" alt="Back of a Card in Kaishi 1.5k" style="width: 40%; height: auto">
+  <img src="https://github.com/donkuri/Kaishi/blob/main/pics/back-card.png" alt="Back of a Card in Kaishi 1.5k" style="width: 60%; height: auto">
 </div>
 
 ## The genesis of the deck
