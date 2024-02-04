@@ -36,9 +36,6 @@ To enable pitch accent, you simply need to take out all the `<!--` and `-->` par
 
 There are a couple of minor options you can modify.
 
-#### Bold color
-By default, Kaishi 1.5k colors **bold** words. The option to change this is `b{color: }` you can see above. Simply put a hexcode or a color name like `red` to get that color. If you would like no color, simply take out the whole `b{color: }` part.
-
 #### Furigana
 If you would like to take out furigana, simply take out the `furigana:` parts of the back template.
 
@@ -56,7 +53,7 @@ Here is the styling template of Kaishi 1.5k:
 
 ![Styling Template of Kaishi 1.5k](https://github.com/donkuri/Kaishi/blob/main/pics/styling-template.png)
 
-You can find the various styling options [here](https://docs.ankiweb.net/templates/styling.html). As you can see, Kaishi 1.5k uses very little options in the style tab directly. You can change the `font-family` option to get different fonts, `font-size` to change the font size and `text-align` to change the alignment of the text, for instance if you'd like the text to be left aligned. As discussed above, you can also change the bold color by changing `#5586cd` to whichever hexcode you would prefer or to a color.
+You can find the various styling options [here](https://docs.ankiweb.net/templates/styling.html). As you can see, Kaishi 1.5k uses very little options in the style tab directly. You can change the `font-family` option to get different fonts, `font-size` to change the font size and `text-align` to change the alignment of the text, for instance if you'd like the text to be left aligned. By default, Kaishi 1.5k colors **bold** words. The option to change this is `b{color: }` as you can see above. Simply put a hexcode or a color name like `red` to get that color instead. If you would like no color, simply take out the whole `b{color: }` part.
 
 ## Credits
 
