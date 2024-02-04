@@ -2,9 +2,9 @@
 
 Welcome to the public repository for Kaishi 1.5k, a modern Anki deck made to introduce beginners to basic Japanese vocabulary. Kaishi 1.5k is highly modular and this page is dedicated to explaining various options you can use to change the deck to your liking. Here is what the deck looks like:
 
-![Front of a Card in Kaishi 1.5k](https://github.com/donkuri/kashi/pics/front-card.png)
+![Front of a Card in Kaishi 1.5k](https://github.com/donkuri/Kaishi/blob/main/pics/front-card.png)
 
-![Back of a Card in Kaishi 1.5k](https://github.com/donkuri/kashi/pics/back-card.png)
+![Back of a Card in Kaishi 1.5k](https://github.com/donkuri/Kaishi/blob/main/pics/back-card.png)
 
 
 ## The genesis of the deck
@@ -23,11 +23,11 @@ There are multiple options you can use to change your cards.
 
 The most important option is whether you would like to include pitch accent on your cards. Currently, whether one should learn pitch accent or not tends to spawn pretty heated arguments in the community. We decided to take a middle ground approach: the pitch accent data is there for you, you choose whether you want to use it. If you decide not to use it, you can always enable it later. The way you enable pitch accent is extremely easy. Here is a picture of the config file of the default Anki deck:
 
-![Back Template of Kaishi 1.5k](https://github.com/donkuri/kashi/pics/back-template.png)
+![Back Template of Kaishi 1.5k](https://github.com/donkuri/Kaishi/blob/main/pics/back-template.png)
 
 To enable pitch accent, you simply need to take out all the `<!--` and `-->` parts which represent comments, like so: 
 
-![Back Template of Kaishi 1.5k with Pitch Acccent enabled](https://github.com/donkuri/kashi/pics/back-template-pitch.png)
+![Back Template of Kaishi 1.5k with Pitch Acccent enabled](https://github.com/donkuri/Kaishi/blob/main/pics/back-template-pitch.png)
 
 ### Minor options
 
@@ -43,7 +43,7 @@ If you would like to take out furigana, simply take out the `furigana:` parts of
 
 You could entirely change the type of cards you want to see. Here is the front template of Kaishi 1.5k:
 
-![Front Template of Kaishi 1.5k](https://github.com/donkuri/kashi/pics/front-template.png)
+![Front Template of Kaishi 1.5k](https://github.com/donkuri/Kaishi/blob/main/pics/front-template.png)
 
 As you can see, we only have the word and the sentence. If you would like *sentence* cards, simply take out the `{{Word}}` part, or put `Sentence` inside instead and take out the rest. If you would like *word* cards, simply take out the `<div style='font-size: 20px;'>{{Sentence}}</div>` part. If instead you would like *audio* cards, take out everything and add `{{Word Audio}}`, `{{Sentence Audio}}` or both if you would like both.
 
@@ -51,7 +51,7 @@ As you can see, we only have the word and the sentence. If you would like *sente
 
 Here is the styling template of Kaishi 1.5k:
 
-![Styling Template of Kaishi 1.5k](https://github.com/donkuri/kashi/pics/styling-template.png)
+![Styling Template of Kaishi 1.5k](https://github.com/donkuri/Kaishi/blob/main/pics/styling-template.png)
 
 You can find the various styling options [here](https://docs.ankiweb.net/templates/styling.html). As you can see, Kaishi 1.5k uses very little options in the style tab directly. You can change the `font-family` option to get different fonts, `font-size` to change the font size and `text-align` to change the alignment of the text, for instance if you'd like the text to be left aligned. As discussed above, you can also change the bold color by changing `#5586cd` to whichever hexcode you would prefer or to a color.
 
