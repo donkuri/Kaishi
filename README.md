@@ -58,12 +58,17 @@ Here is the styling template of Kaishi 1.5k:
 
 You can find the various styling options [here](https://docs.ankiweb.net/templates/styling.html). As you can see, Kaishi 1.5k uses very little options in the style tab directly. You can change the `font-family` option to get different fonts, `font-size` to change the font size and `text-align` to change the alignment of the text, for instance if you'd like the text to be left aligned. As discussed above, you can also change the bold color by changing `#5586cd` to whichever hexcode you would prefer or to a color.
 
+## Credits
 
+This deck was made with the help of these people:
 
+[栗](https://github.com/donkuri/) - main architect, took care of the translations and all of the technical aspects
+Tyogin - main architect, meticulously reordered the first 200 cards to make it as i+1 as possible for beginners
+Julian - helped add notes and checked some sentence translations
+karifurai - verified the pitch accent for the first 750 cards and added pitch notes
+cindsa - verified the pitch accent for the last 750 cards and added pitch notes
 
-
-
-
+We also got various ideas from multiple members of the TMW discord server, including the name of the deck itself.
 
 
 
