@@ -10,7 +10,7 @@ Welcome to the public repository for **Kaishi 1.5**, a modern Anki deck made to 
 <div align="center">
   <img src="https://github.com/donkuri/Kaishi/blob/main/pics/back-card.png" alt="Back of a Card in Kaishi 1.5k" style="width: 70%; height: auto">
 </div>
-<div align="center">Back of a card.</div>
+<div align="center">Back of a card.<br></div>
 
 ## The genesis of the deck
 
