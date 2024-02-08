@@ -59,19 +59,19 @@ Kaishi, written 開始 means "start, beginning". As we were deciding on a name, 
 
 This deck was made with the help of these people:
 
-[栗](https://github.com/donkuri/) - main architect, took care of the translations and all of the technical aspects
+[栗](https://github.com/donkuri/) - main architect, all technical aspects, translations, proofreading
 
-Tyogin - main architect, reordered the first 200 cards to be i+1 as possible and changed the sentences
+Tyogin - main architect, reordered the first 200 cards, changed the sentences, proofreading
+
+shoui - proofreading, fixed translation
 
 Julian - helped add notes and checked some sentence translations
-
-shoui - helped translate certain sentences
 
 karifurai - verified the pitch accent for the first 750 cards and added pitch notes
 
 cindsa - verified the pitch accent for the last 750 cards and added pitch notes
 
-AJT Japanese - the pitch accent, furigana and some of the audio was generated using this add-on
+AJT Japanese - pitch accent, furigana and some of the audio were generated using this add-on
 
 We also got various ideas from multiple members of the TMW discord server, including the name of the deck itself.
 
