@@ -63,7 +63,7 @@ This deck was made with the help of these people:
 
 Tyogin - main architect, reordered the first 200 cards, changed the sentences, proofreading
 
-shoui - proofreading, fixed translation
+shoui - proofreading, fixed translations
 
 Julian - helped add notes and checked some sentence translations
 
