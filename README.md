@@ -65,6 +65,8 @@ Tyogin - main architect, reordered the first 200 cards to be i+1 as possible and
 
 Julian - helped add notes and checked some sentence translations
 
+shoui - helped translate certain sentences
+
 karifurai - verified the pitch accent for the first 750 cards and added pitch notes
 
 cindsa - verified the pitch accent for the last 750 cards and added pitch notes
