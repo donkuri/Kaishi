@@ -71,7 +71,13 @@ karifurai - verified the pitch accent for the first 750 cards and added pitch no
 
 cindsa - verified the pitch accent for the last 750 cards and added pitch notes
 
-AJT Japanese - pitch accent, furigana and some of the audio were generated using this add-on
+These tools were used in the creation of the deck:
+
+[AJT Japanese](https://github.com/Ajatt-Tools/Japanese) - pitch accent, furigana and some of the audio were generated using this add-on
+
+[FFmpeg](https://ffmpeg.org/) - used to take out some silent parts in various audio files
+
+[Tenacity](https://tenacityaudio.org/) - used to edit clipping sounds in various audio files
 
 We also got various ideas from multiple members of the TMW discord server, including the name of the deck itself.
 
