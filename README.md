@@ -12,7 +12,7 @@ As you can see, furigana gives the reading of the word, with the meaning right b
 
 ## What options are available for the deck?
 
-There are multiple options you can use to change your cards.
+There are multiple options you can use to change your cards. **To modify them, open the browser with B (or by clicking on Browse), select a card from the deck and then hit *Cards* on the top right.**
 
 ### Pitch Accent
 
