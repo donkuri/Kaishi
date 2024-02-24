@@ -106,7 +106,16 @@ As you can see, we only have the word and the sentence. If you would like *sente
 
 Here is the styling template of Kaishi 1.5k:
 
-![Styling Template of Kaishi 1.5k](https://github.com/donkuri/Kaishi/blob/main/pics/styling-template.png)
+```CSS
+.card {
+ font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "Noto Sans JP", Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", "MS UI Gothic", sans-serif;
+ font-size: 44px;
+ text-align: center;
+}
+
+/* This part defines the bold coolor. */
+b{color: #5586cd}
+```
 
 You can find the various styling options [here](https://docs.ankiweb.net/templates/styling.html). As you can see, Kaishi 1.5k uses very little options in the style tab directly. You can change the `font-family` option to get different fonts, `font-size` to change the font size and `text-align` to change the alignment of the text, for instance if you'd like the text to be left aligned. By default, Kaishi 1.5k colors **bold** words. The option to change this is `b{color: }` as you can see above. Simply put a hexcode or a color name like `red` to get that color instead. If you would like no color, simply take out the whole `b{color: }` part.
 
