@@ -18,11 +18,71 @@ There are multiple options you can use to change your cards. To modify them, sel
 
 The most important option is whether you would like to include pitch accent on your cards. Currently, whether one should learn pitch accent or not tends to spawn pretty heated arguments in the community. We decided to take a middle ground approach: the pitch accent data is there for you, you choose whether you want to use it. If you decide not to use it, you can always enable it later. The way you enable pitch accent is extremely easy. Here is a picture of the config file of the default Anki deck:
 
-![Back Template of Kaishi 1.5k](https://github.com/donkuri/Kaishi/blob/main/pics/back-template.png)
+```CSS
+{{furigana:Word Furigana}}
+
+<!-- This part enables pitch accent.
+
+{{#Pitch Accent}}
+	<br><div style='font-size: 24px'>{{Pitch Accent}}</div>
+{{/Pitch Accent}} 
+
+-->
+
+<div style='font-size: 25px; padding-bottom:20px'>{{Word Meaning}}</div>
+<div style='font-size: 25px;'>{{furigana:Sentence Furigana}}</div>
+<div style='font-size: 25px; padding-bottom:10px'>{{Sentence Meaning}}</div>
+
+{{Word Audio}}
+{{Sentence Audio}}
+
+{{#Notes}}
+	<br>
+	<div style="font-size: 20px; padding-top:12px">Note: {{Notes}}</div>
+{{/Notes}}
+
+<!-- This part enables pitch accent notes.
+
+{{#Pitch Accent Notes}}
+<div style="font-size: 20px; width: fit-content; max-width:40vw; margin: auto">
+	<details><summary>Pitch Accent Notes</summary>
+		<br>{{Pitch Accent Notes}}
+	</details>
+</div>
+{{/Pitch Accent Notes}}
+
+-->
+```
 
 To enable pitch accent, you simply need to take out all the `<!--` and `-->` parts which represent comments, like so: 
 
-![Back Template of Kaishi 1.5k with Pitch Acccent enabled](https://github.com/donkuri/Kaishi/blob/main/pics/back-template-pitch.png)
+```CSS
+{{furigana:Word Furigana}}
+
+{{#Pitch Accent}}
+	<br><div style='font-size: 24px'>{{Pitch Accent}}</div>
+{{/Pitch Accent}} 
+
+<div style='font-size: 25px; padding-bottom:20px'>{{Word Meaning}}</div>
+<div style='font-size: 25px;'>{{furigana:Sentence Furigana}}</div>
+<div style='font-size: 25px; padding-bottom:10px'>{{Sentence Meaning}}</div>
+
+{{Word Audio}}
+{{Sentence Audio}}
+
+{{#Notes}}
+	<br>
+	<div style="font-size: 20px; padding-top:12px">Note: {{Notes}}</div>
+{{/Notes}}
+
+{{#Pitch Accent Notes}}
+<div style="font-size: 20px; width: fit-content; max-width:40vw; margin: auto">
+	<details><summary>Pitch Accent Notes</summary>
+		<br>{{Pitch Accent Notes}}
+	</details>
+</div>
+{{/Pitch Accent Notes}}
+```
 
 ### Minor options
 
@@ -35,7 +95,10 @@ If you would like to take out furigana, simply take out the `furigana:` parts of
 
 You could entirely change the type of cards you want to see. Here is the front template of Kaishi 1.5k:
 
-![Front Template of Kaishi 1.5k](https://github.com/donkuri/Kaishi/blob/main/pics/front-template.png)
+```CSS
+{{Word}}
+<div style='font-size: 20px;'>{{Sentence}}</div>
+```
 
 As you can see, we only have the word and the sentence. If you would like *sentence* cards, simply take out the `{{Word}}` part, or put `Sentence` inside instead and take out the rest. If you would like *word* cards, simply take out the `<div style='font-size: 20px;'>{{Sentence}}</div>` part. If instead you would like *audio* cards, take out everything and add `{{Word Audio}}`, `{{Sentence Audio}}` or both if you would like both.
 
