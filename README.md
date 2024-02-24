@@ -16,7 +16,7 @@ There are multiple options you can use to change your cards. To modify them, sel
 
 ### Pitch Accent
 
-The most important option is whether you would like to include pitch accent on your cards. Currently, whether one should learn pitch accent or not tends to spawn pretty heated arguments in the community. We decided to take a middle ground approach: the pitch accent data is there for you, you choose whether you want to use it. If you decide not to use it, you can always enable it later. The way you enable pitch accent is extremely easy. Here is a picture of the config file of the default Anki deck:
+The most important option is whether you would like to include pitch accent on your cards. Currently, whether one should learn pitch accent or not tends to spawn pretty heated arguments in the community. We decided to take a middle ground approach: the pitch accent data is there for you, you choose whether you want to use it. If you decide not to use it, you can always enable it later. The way you enable pitch accent is extremely easy. Here is a picture of the card options for the deck (see above if you don't know where to find them).
 
 ```CSS
 {{furigana:Word Furigana}}
