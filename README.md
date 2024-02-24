@@ -93,7 +93,7 @@ If you would like to take out furigana, simply take out the `furigana:` parts of
 
 #### Other card options
 
-You could entirely change the type of cards you want to see. Here is the front template of Kaishi 1.5k:
+You could entirely change the type of cards you want to see. Here is the `Front Template` of Kaishi 1.5k:
 
 ```CSS
 {{Word}}
@@ -104,7 +104,7 @@ As you can see, we only have the word and the sentence. If you would like *sente
 
 #### Changing the fonts, font size or other styling options
 
-Here is the styling template of Kaishi 1.5k:
+Here is the `Styling` template of Kaishi 1.5k:
 
 ```CSS
 .card {
