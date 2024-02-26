@@ -163,7 +163,7 @@ karifurai - verified the pitch accent for the first 750 cards and added pitch no
 
 cindsa - verified the pitch accent for the last 750 cards and added pitch notes
 
-[Kuuube](https://github.com/Kuuuube) - suggested the use of FFmpeg, sent me a short write-up to transfer other cards to Kaishi 1.5k (see above)
+[Kuuube](https://github.com/Kuuuube) - suggested the use of FFmpeg, wrote the transferring cards to Kaishi 1.5k section above
 
 These tools were used in the creation of the deck:
 
