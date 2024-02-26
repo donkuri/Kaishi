@@ -12,7 +12,7 @@ Contrary to most of the decks, here furigana gives the reading of the word, with
 
 ## Where do I get the deck?
 
-You can either get the deck on the [releases](https://github.com/donkuri/Kaishi/releases/) page of this GitHub or on [AnkiWeb](https://ankiweb.net/shared/info/1196762551), provided the deck is not undergoing review.
+You can either get the deck on the [releases](https://github.com/donkuri/Kaishi/releases/) page of this GitHub or on [AnkiWeb](https://ankiweb.net/shared/info/1196762551), provided the deck is not undergoing review. **The deck is supported on Anki 2.1.50+.**
 
 ## What options are available for the deck?
 
