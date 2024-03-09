@@ -149,6 +149,10 @@ Both of these issues were annoying enough that we would get beginners asking que
 
 Kaishi, written 開始 means "start, beginning". We thought this fit properly so we decided on this name. Hopefully, this deck will be a wonderful start to your Japanese learning journey.
 
+## Translation of the deck
+
+If you are interested in translating the deck in your native language, please make an issue on [the GitHub tracker](https://github.com/donkuri/Kaishi/issues).
+
 ## Credits
 
 This deck was made with the help of these people:
