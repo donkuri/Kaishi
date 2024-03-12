@@ -23,6 +23,7 @@ There are multiple options you can use to change your cards. To modify them, sel
 The most important option is whether you would like to include pitch accent on your cards. Currently, whether one should learn pitch accent or not tends to spawn pretty heated arguments in the community. We decided to take a middle ground approach: the pitch accent data is there for you, you choose whether you want to use it. If you decide not to use it, you can always enable it later. The way you enable pitch accent is easy. Here is the card options under `Back Template` for the deck (click on the small dot above the `Search` bar.)
 
 ```CSS
+<div lang="ja">
 {{furigana:Word Furigana}}
 
 <!-- This part enables pitch accent.
@@ -56,11 +57,13 @@ The most important option is whether you would like to include pitch accent on y
 {{/Pitch Accent Notes}}
 
 -->
+</div>
 ```
 
 To enable pitch accent, you simply need to take out all the `<!--` and `-->` parts which represent comments, like so: 
 
 ```CSS
+<div lang="ja">
 {{furigana:Word Furigana}}
 
 {{#Pitch Accent}}
@@ -86,6 +89,7 @@ To enable pitch accent, you simply need to take out all the `<!--` and `-->` par
 	</details>
 </div>
 {{/Pitch Accent Notes}}
+</div>
 ```
 
 ### Minor options
@@ -100,8 +104,10 @@ If you would like to take out furigana, simply take out the `furigana:` parts of
 You could entirely change the type of cards you want to see. Here is the `Front Template` of Kaishi 1.5k:
 
 ```CSS
+<div lang="ja">
 {{Word}}
 <div style='font-size: 20px;'>{{Sentence}}</div>
+</div>
 ```
 
 As you can see, we only have the word and the sentence. If you would like *sentence* cards, simply take out the `{{Word}}` part, or put `Sentence` inside instead and take out the rest. If you would like *word* cards, simply take out the `<div style='font-size: 20px;'>{{Sentence}}</div>` part. If instead you would like *audio* cards, take out everything and add `{{Word Audio}}`, `{{Sentence Audio}}` or both if you would like both.
