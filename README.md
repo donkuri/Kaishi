@@ -171,6 +171,8 @@ cindsa - verified the pitch accent for the last 750 cards and added pitch notes
 
 [Kuuube](https://github.com/Kuuuube) - suggested the use of FFmpeg, wrote the transferring cards to Kaishi 1.5k section above
 
+[stephenmk](https://github.com/stephenmk) - ran the Jmdict Furigana tool on Kaishi 1.5k to fix furigana, see v1.3.0
+
 These tools were used in the creation of the deck:
 
 [AJT Japanese](https://github.com/Ajatt-Tools/Japanese) - pitch accent, furigana and some of the audio were generated using this add-on
