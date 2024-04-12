@@ -123,7 +123,7 @@ Here is the `Styling` template of Kaishi 1.5k:
  text-align: center;
 }
 
-/* This part defines the bold coolor. */
+/* This part defines the bold color. */
 b{color: #5586cd}
 ```
 
