@@ -40,6 +40,8 @@ The most important option is whether you would like to include pitch accent on y
 
 {{Word Audio}}
 {{Sentence Audio}}
+<br>
+{{Picture}}
 
 {{#Notes}}
 	<br>
@@ -57,6 +59,7 @@ The most important option is whether you would like to include pitch accent on y
 {{/Pitch Accent Notes}}
 
 -->
+
 </div>
 ```
 
@@ -76,6 +79,8 @@ To enable pitch accent, you simply need to take out all the `<!--` and `-->` par
 
 {{Word Audio}}
 {{Sentence Audio}}
+<br>
+{{Picture}}
 
 {{#Notes}}
 	<br>
@@ -89,6 +94,7 @@ To enable pitch accent, you simply need to take out all the `<!--` and `-->` par
 	</details>
 </div>
 {{/Pitch Accent Notes}}
+
 </div>
 ```
 
@@ -121,6 +127,15 @@ Here is the `Styling` template of Kaishi 1.5k:
  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "Noto Sans JP", Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", "MS UI Gothic", sans-serif;
  font-size: 44px;
  text-align: center;
+}
+
+img {
+max-width: 300px;
+max-height: 250px;
+}
+
+.mobile img {
+max-width: 50vw;
 }
 
 /* This part defines the bold color. */
