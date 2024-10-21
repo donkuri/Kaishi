@@ -10,6 +10,15 @@ As you can see, both the word and the sentences are there but the word is highli
 
 Contrary to most of the decks, here furigana gives the reading of the word, with the meaning right below. Audio for the word and for the sentence are then available for you. If you would like, you can also add pitch accent, see below. If there are notes related to that specifc card, they are displayed down below. 
 
+#### Table of contents
+
+- [Where do I get the deck?](#where-do-i-get-the-deck)
+- [What options are available for the deck?](#what-options-are-available-for-the-deck)
+- [How to import Kaishi on top of another deck](#how-to-import-kaishi-on-top-of-another-deck)
+- [The genesis of the deck](#the-genesis-of-the-deck)
+- [Translation of the deck](#translation-of-the-deck)
+- [Credits](#credits)
+
 ## Where do I get the deck?
 
 You can either get the deck on the [releases](https://github.com/donkuri/Kaishi/releases/) page of this GitHub or on [AnkiWeb](https://ankiweb.net/shared/info/1196762551), provided the deck is not undergoing review. **The deck is supported on Anki 2.1.50+.**
@@ -144,7 +153,7 @@ b{color: #5586cd}
 
 You can find the various styling options [here](https://docs.ankiweb.net/templates/styling.html). As you can see, Kaishi 1.5k uses very little options in the style tab directly. You can change the `font-family` option to get different fonts, `font-size` to change the font size and `text-align` to change the alignment of the text, for instance if you'd like the text to be left aligned. By default, Kaishi 1.5k colors **bold** words. The option to change this is `b{color: }` as you can see above. Simply put a hexcode or a color name like `red` to get that color instead. If you would like no color, simply take out the whole `b{color: }` part.
 
-## How to import Kaishi 1.5k on top of another deck
+## How to import Kaishi on top of another deck
 
 If you already started Core2k or Tango N4-N5 (or some other similar deck) and you would like to switch to Kaishi 1.5k, you can follow these steps written by [Kuuube](https://github.com/Kuuuube).
 
@@ -172,7 +181,7 @@ Kaishi, written 開始 means "start, beginning". We thought this fit properly so
 
 ## Translation of the deck
 
-If you are interested in translating the deck in your native language, please make an issue on [the GitHub tracker](https://github.com/donkuri/Kaishi/issues).
+If you are interested in translating the deck in your native language, please make an issue on [the GitHub tracker](https://github.com/donkuri/Kaishi/issues). The deck has already been translated in Russian, and you can find the translation [here](https://github.com/NeonGooRoo/KaishiRu).
 
 ## Credits
 
