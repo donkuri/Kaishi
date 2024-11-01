@@ -10,7 +10,7 @@ As you can see, both the word and the sentences are there but the word is highli
 
 Contrary to most of the decks, here furigana gives the reading of the word, with the meaning right below. Audio for the word and for the sentence are then available for you. If you would like, you can also add pitch accent, see below. If there are notes related to that specifc card, they are displayed down below. 
 
-#### Table of contents
+### Table of contents
 
 - [Where do I get the deck?](#where-do-i-get-the-deck)
 - [What options are available for the deck?](#what-options-are-available-for-the-deck)
