@@ -181,7 +181,7 @@ Kaishi, written 開始 means "start, beginning". We thought this fit properly so
 
 ## Translation of the deck
 
-If you are interested in translating the deck in your native language, please make an issue on [the GitHub tracker](https://github.com/donkuri/Kaishi/issues). The deck has already been translated in Russian, and you can find the translation [here](https://github.com/NeonGooRoo/KaishiRu).
+If you are interested in translating the deck in your native language, please make an issue on [the GitHub tracker](https://github.com/donkuri/Kaishi/issues). The deck has already been translated in **[Russian](https://github.com/NeonGooRoo/KaishiRu)** and **[Indonesian](https://ankiweb.net/shared/info/1512066033)**.
 
 ## Credits
 
