@@ -13,8 +13,8 @@ Contrary to most of the decks, here furigana gives the reading of the word, with
 ### Table of contents
 
 - [Where do I get the deck?](#where-do-i-get-the-deck)
-- [What options are available for the deck?](#what-options-are-available-for-the-deck)
 - [Other related decks](#other-related-decks)
+- [What options are available for the deck?](#what-options-are-available-for-the-deck)
 - [How to import Kaishi on top of another deck](#how-to-import-kaishi-on-top-of-another-deck)
 - [The genesis of the deck](#the-genesis-of-the-deck)
 - [Translation of the deck](#translation-of-the-deck)
@@ -24,13 +24,13 @@ Contrary to most of the decks, here furigana gives the reading of the word, with
 
 You can either get the deck on the [releases](https://github.com/donkuri/Kaishi/releases/) page of this GitHub or on [AnkiWeb](https://ankiweb.net/shared/info/1196762551), provided the deck is not undergoing review. **The deck is supported on Anki 2.1.50+.**
 
-## What options are available for the deck?
-
-There are multiple options you can use to change your cards. To modify them, select the Kaishi deck, click `Browse`, select any card from the deck, and click `Cards...` on the top right.
-
 ## Other related decks
 
 ねむい made a radicals deck based on Kaishi 1.5k, linking every kanji radical found in it with the first word in Kaishi that features this radical. It also covers a few more radicals that aren't in Kaishi proper. You can **use this deck in parallel with Kaishi if you struggle with kanji**, because it introduces kanji radicals as you go, helping you break them down more efficiently. You can find the deck [here on AnkiWeb](https://ankiweb.net/shared/info/1722008986). Thank you ねむい!
+
+## What options are available for the deck?
+
+There are multiple options you can use to change your cards. To modify them, select the Kaishi deck, click `Browse`, select any card from the deck, and click `Cards...` on the top right.
 
 ### Pitch Accent
 
