@@ -173,6 +173,7 @@ If you already started Core2k or Tango N4-N5 (or some other similar deck) and yo
   If you intend on deleting cards not in Kaishi, add the tag `Kaishi` in the `Tag all notes` option.
 8. Click `Import`.
 9. To delete cards not in Kaishi, select your deck, click `Browse`, select your deck in left menu, append ` -tag:Kaishi` to the search bar, select any card, press `ctrl + a`, on the top left menu and go to `Notes > Delete`.
+10. To use Kaishi's frequency sorting, in `Browse`, select the deck and append ` is:new` to the search field. select any card, press `ctrl + a`, then `Reposition > Ok`.
 
 **If you're importing on top of Core 2.3k, please see [this](https://github.com/Manhhao/anki.transfer-review-history).**
 
