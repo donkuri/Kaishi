@@ -21,6 +21,7 @@ Contrary to most of the decks, here furigana gives the reading of the word, with
 - [How to import Kaishi on top of another deck](#how-to-import-kaishi-on-top-of-another-deck)
 - [The genesis of the deck](#the-genesis-of-the-deck)
 - [Translation of the deck](#translation-of-the-deck)
+- [What do I do after this deck?](#what-do-i-do-after-this-deck)
 - [Credits](#credits)
 
 ## Where do I get the deck?
@@ -29,7 +30,7 @@ You can either get the deck on the [releases](https://github.com/donkuri/Kaishi/
 
 ## How do I use this deck?
 
-See the [guide](https://donkuri.github.io/learn-japanese/guide/)
+For an explanation on how Kaishi fits in with learning Japanese more generally, see the [guide](https://donkuri.github.io/learn-japanese/guide/).
 
 ## Other related decks
 
