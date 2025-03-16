@@ -8,11 +8,14 @@ As you can see, both the word and the sentences are there but the word is highli
 
 <img src="https://github.com/donkuri/Kaishi/blob/main/pics/kaishi-back.png" alt="Back of a Card in Kaishi 1.5k" style="width: 100%; height: auto">
 
-Contrary to most of the decks, here furigana gives the reading of the word, with the meaning right below. Audio for the word and for the sentence are then available for you. If you would like, you can also add pitch accent, see below. If there are notes related to that specifc card, they are displayed down below. 
+Contrary to most of the decks, here furigana gives the reading of the word, with the meaning right below. Audio for the word and for the sentence are then available for you. If you would like, you can also add pitch accent, see below. If there are notes related to that specifc card, they are displayed down below.
+
+[If you are new to Japanese, please read the guide before doing this.](https://donkuri.github.io/learn-japanese/guide/)
 
 ### Table of contents
 
 - [Where do I get the deck?](#where-do-i-get-the-deck)
+- [How do I use this deck?](#how-do-i-use-this-deck)
 - [Other related decks](#other-related-decks)
 - [What options are available for the deck?](#what-options-are-available-for-the-deck)
 - [How to import Kaishi on top of another deck](#how-to-import-kaishi-on-top-of-another-deck)
@@ -23,6 +26,10 @@ Contrary to most of the decks, here furigana gives the reading of the word, with
 ## Where do I get the deck?
 
 You can either get the deck on the [releases](https://github.com/donkuri/Kaishi/releases/) page of this GitHub or on [AnkiWeb](https://ankiweb.net/shared/info/1196762551), provided the deck is not undergoing review. **The deck is supported on Anki 2.1.50+.**
+
+## How do I use this deck?
+
+See the [guide](https://donkuri.github.io/learn-japanese/guide/)
 
 ## Other related decks
 
@@ -184,9 +191,13 @@ Both of these issues were annoying enough that we would get beginners asking que
 
 Kaishi, written 開始 means "start, beginning". We thought this fit properly so we decided on this name. Hopefully, this deck will be a wonderful start to your Japanese learning journey.
 
+## What do I do after this deck?
+
+[Start mining](https://donkuri.github.io/learn-japanese/guide/#consuming-native-content) if you haven't already. See [this](https://github.com/donkuri/japanese-resources/?tab=readme-ov-file#mining) for a list of mining notetypes.
+
 ## Translation of the deck
 
-If you are interested in translating the deck in your native language, please make an issue on [the GitHub tracker](https://github.com/donkuri/Kaishi/issues). The deck has already been translated in **[Russian](https://github.com/NeonGooRoo/KaishiRu)**, **[Indonesian](https://ankiweb.net/shared/info/1512066033)** and **[Vietnamese](https://github.com/duy103zxc/kaishi-vi/releases)**.
+If you are interested in translating the deck in your native language, please make an issue on [the GitHub tracker](https://github.com/donkuri/Kaishi/issues). The deck has already been translated in **[Russian](https://github.com/NeonGooRoo/KaishiRu)**, **[Indonesian](https://ankiweb.net/shared/info/1512066033)**, **[Vietnamese](https://github.com/duy103zxc/kaishi-vi/releases)** and **[Ukrainian](https://github.com/maksiksq/KaishiUa)**.
 
 ## Credits
 
