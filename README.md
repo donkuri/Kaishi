@@ -10,7 +10,7 @@ As you can see, both the word and the sentences are there but the word is highli
 
 Contrary to most of the decks, here furigana gives the reading of the word, with the meaning right below. Audio for the word and for the sentence are then available for you. If you would like, you can also add pitch accent, see below. If there are notes related to that specifc card, they are displayed down below.
 
-[If you are new to Japanese, please read the guide before doing this.](https://donkuri.github.io/learn-japanese/guide/)
+[If you are new to Japanese or immersion, please read the guide first.](https://donkuri.github.io/learn-japanese/guide/)
 
 ### Table of contents
 
