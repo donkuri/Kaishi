@@ -8,7 +8,7 @@ As you can see, both the word and the sentences are there but the word is highli
 
 <img src="https://github.com/donkuri/Kaishi/blob/main/pics/kaishi-back.png" alt="Back of a Card in Kaishi 1.5k" style="width: 100%; height: auto">
 
-Contrary to most of the decks, here furigana gives the reading of the word, with the meaning right below. Audio for the word and for the sentence are then available for you. If you would like, you can also add pitch accent, see below. If there are notes related to that specifc card, they are displayed down below.
+Contrary to most other Core-type decks, here furigana gives the reading of the word, with the meaning right below. Audio for the word and for the sentence are then available for you. If you would like, you can also add pitch accent, see below. If there are notes related to that specifc card, they are displayed down below.
 
 [If you are new to Japanese or immersion, please read the guide first.](https://donkuri.github.io/learn-japanese/guide/)
 
@@ -18,6 +18,7 @@ Contrary to most of the decks, here furigana gives the reading of the word, with
 - [How do I use this deck?](#how-do-i-use-this-deck)
 - [Other related decks](#other-related-decks)
 - [What options are available for the deck?](#what-options-are-available-for-the-deck)
+- [I don't like the images!](#i-dont-like-the-images)
 - [How to import Kaishi on top of another deck](#how-to-import-kaishi-on-top-of-another-deck)
 - [The genesis of the deck](#the-genesis-of-the-deck)
 - [Translation of the deck](#translation-of-the-deck)
@@ -183,6 +184,50 @@ If you already started Core2k or Tango N4-N5 (or some other similar deck) and yo
 9. To delete cards not in Kaishi, select your deck, click `Browse`, select your deck in left menu, append ` -tag:Kaishi` to the search bar, select any card, press `ctrl + a`, on the top left menu and go to `Notes > Delete`.
 
 **If you're importing on top of Core 2.3k, please see [this](https://github.com/Manhhao/anki.transfer-review-history).**
+
+## I don't like the images!
+
+That's fair. Finding 1500 consistent and free pictures to use for the deck was a tremendous challenge (thank you again for this [liarbeast](https://github.com/liarbeast)!). As a result, a bunch of pictures do not align perfectly with the sentence or the word. That's valid criticism, and if you would like to take the picture out, here's what you should do. Open up Cards...` after clicking on a Kaishi card in the browser. Look for the `Back` template. In it, you will find `{{Picture}}`. Simply take it out. Alternatively, just replace everything with the following:
+
+```html
+<div lang="ja">
+{{furigana:Word Furigana}}
+
+<!-- This part enables pitch accent.
+
+{{#Pitch Accent}}
+	<br><div style='font-size: 24px'>{{Pitch Accent}}</div>
+{{/Pitch Accent}} 
+
+-->
+
+<div style='font-size: 25px; padding-bottom:20px'>{{Word Meaning}}</div>
+<div style='font-size: 25px;'>{{furigana:Sentence Furigana}}</div>
+<div style='font-size: 25px; padding-bottom:10px'>{{Sentence Meaning}}</div>
+
+{{Word Audio}}
+{{Sentence Audio}}
+<br>
+
+{{#Notes}}
+	<br>
+	<div style="font-size: 20px; padding-top:12px">Note: {{Notes}}</div>
+{{/Notes}}
+
+<!-- This part enables pitch accent notes.
+
+{{#Pitch Accent Notes}}
+<div style="font-size: 20px; width: fit-content; max-width:40vw; margin: auto">
+	<details><summary>Pitch Accent Notes</summary>
+		<br>{{Pitch Accent Notes}}
+	</details>
+</div>
+{{/Pitch Accent Notes}}
+
+-->
+
+</div>
+```
 
 ## The genesis of the deck
 
