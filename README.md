@@ -230,7 +230,7 @@ These tools were used in the creation of the deck:
 
 [Tenacity](https://tenacityaudio.org/) - used to edit clipping sounds in various audio files
 
-We also got various ideas from multiple members of the TMW discord server, including the name of the deck itself.
+We also got various ideas from multiple members of the TMW discord server, including the name of the deck itself. The sentences themselves come from various Core decks found on Ankiweb.
 
 
 
